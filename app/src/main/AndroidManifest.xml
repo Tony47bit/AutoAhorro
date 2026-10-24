@@ -1,7 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
-    <application
-        android:allowBackup="true"
-        android:label="Mis ahorros"
+    <application android:allowBackup="true" android:label="AutoAhorro"
+        android:icon="@drawable/ic_launcher"
         android:theme="@android:style/Theme.Material.Light.NoActionBar"
         android:supportsRtl="true">
         <activity android:name=".MainActivity" android:exported="true">
